@@ -1,0 +1,43 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "IzBTjqHgEQ/6fLu1/7O0+KeU/E0=",
+			"path": "github.com/go-sql-driver/mysql",
+			"revision": "fade21009797158e7b79e04c340118a9220c6f9e",
+			"revisionTime": "2017-10-17T18:16:16Z"
+		},
+		{
+			"checksumSHA1": "k2PKjhzyLombj2mbCaNVLZqHMHU=",
+			"path": "github.com/gocraft/dbr",
+			"revision": "6bc6e0062fb6efaa39981c5b8895b7925c263422",
+			"revisionTime": "2017-09-18T23:54:18Z"
+		},
+		{
+			"checksumSHA1": "DBw0w/HBMOwVljOMev8OJmSKNkI=",
+			"path": "github.com/gocraft/dbr/dialect",
+			"revision": "6bc6e0062fb6efaa39981c5b8895b7925c263422",
+			"revisionTime": "2017-09-18T23:54:18Z"
+		},
+		{
+			"checksumSHA1": "1GP1Eea1wRP/WhUl9t1YBATPc2c=",
+			"path": "github.com/mattn/go-sqlite3",
+			"revision": "615c193e01d8d462eef7ee390171506f531a1c9a",
+			"revisionTime": "2017-10-24T02:57:10Z"
+		},
+		{
+			"checksumSHA1": "Bj0QzneJdkyitup6rUM5061KBuM=",
+			"path": "github.com/subosito/gotenv",
+			"revision": "009e1f9581dc712aba5682a279dee155ca3eeded",
+			"revisionTime": "2017-01-20T14:09:13Z"
+		},
+		{
+			"checksumSHA1": "GtamqiJoL7PGHsN454AoffBFMa8=",
+			"path": "golang.org/x/net/context",
+			"revision": "ea0da6f35caf3ff91581c800469e22eef75076f4",
+			"revisionTime": "2017-11-01T22:18:28Z"
+		}
+	],
+	"rootPath": "github.com/SetyaK/BL-Onboarding3-Go-package"
+}
