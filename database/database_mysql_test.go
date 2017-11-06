@@ -10,7 +10,7 @@ import (
 func TestNewSessionMysql(t *testing.T) {
 	os.Setenv("DATABASE_ADAPTER", "mysql")
 	os.Setenv("DATABASE_HOST", "localhost")
-	os.Setenv("DATABASE_USERNAME", "ministore_test")
+	os.Setenv("DATABASE_USERNAME", "root")
 	os.Setenv("DATABASE_PASSWORD", "secret")
 	os.Setenv("DATABASE_NAME", "sys")
 	os.Setenv("ENV", "development")
