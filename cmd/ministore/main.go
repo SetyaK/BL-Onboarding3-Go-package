@@ -18,11 +18,11 @@ func main() {
 		log.Fatal(err)
 	}
 
-	// m := database.Migration{Session: sess}
-	// _, err = m.Migrate()
-	// if err != nil {
-	// 	log.Fatal(err)
-	// }
+	m := database.Migration{Session: sess}
+	_, err = m.Migrate()
+	if err != nil {
+		log.Fatal(err)
+	}
 
 	pRepo := ministore.ProductRepository{Session: sess}
 
